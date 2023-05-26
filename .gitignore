@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+.env
+package-lock.json
+build
+.idea
+
+# windows thumbnail cache
+Thumbs.db
+/public/plans
+/public/images
